@@ -51,3 +51,21 @@ Finally, make sure your ListView is part of your scene graph so that it’s visi
 If you want to enforce specific formats (e.g., numeric input), you can use a TextFormatter or a UnaryOperator3.
 For numeric input, consider using a TextFormatter with a filter that allows only valid numeric characters.
 Remember, JavaFX provides a lot of flexibility, so feel free to adapt this to your specific use case. If you have any more questions or need further assistance, feel free to ask! 🌟
+
+
+
+https://www.youtube.com/watch?v=TDyIRhqdNqs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
